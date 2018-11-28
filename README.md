@@ -1,3 +1,3 @@
 # Initial page
-
-<p style="color: red">hi</p>
+<style>.red { color: red}</style>
+<p class="red">hi</p>
